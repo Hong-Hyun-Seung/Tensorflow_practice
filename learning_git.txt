@@ -9,3 +9,4 @@ Cerea
 라면
 Im, jake, and im changing things in my own repository, 그리고 내가(jake) 내 repository에서 commit을 한다음에 마지막에
 내 변화들을 다 merge하면 master branch로 합쳐질 수 있다
+I just read an issue that requested me to add walnut to a shopping list, so im adding a walnut
